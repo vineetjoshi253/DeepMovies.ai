@@ -1,2 +1,3 @@
 # DeepMovies.ai
-A Deep Learning Based Hybrid Movie Recommender System
+
+![Posters](https://github.com/vineetjoshi253/DeepMovies.ai/blob/main/Images/Home.PNG)
